@@ -1,5 +1,6 @@
 source circle.sh
 source line.sh
+source arc.sh
 
 function bumpname()
 {
