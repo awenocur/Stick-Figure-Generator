@@ -3,4 +3,4 @@
        cy="VERTICAL"
        cx="HORIZONTAL"
        id="NAME"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:FILL;fill-opacity:1;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
