@@ -1,4 +1,6 @@
 circle 70 100 100
+blackcircle 7 75 80
+blackcircle 7 125 80
 line 100 170 0 200
 line 85 220 30 0
 line 100 370 -50 80
