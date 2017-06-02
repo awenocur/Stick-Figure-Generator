@@ -1,6 +1,6 @@
 function circle()
 {
-    local radius=$1 vertical=$2 horizontal=$3
+    local radius=$1 horizontal=$2 vertical=$3
     bumpname
     if [ -n "$4" ]
     then
