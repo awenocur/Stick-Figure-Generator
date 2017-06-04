@@ -7,7 +7,7 @@
 #		The x-coordinate of the center of the circle.
 #		The y-coordinate of the center of the circle.
 #
-# The second function (blackcircle) calls the uses the first function (circle)
+# The second function (blackcircle) calls the first function (circle)
 #	and specifies a color (black) for the fill of the circle.
 #	blackcircle requires the same three arguments (radius, center-x, center-y) as circle. 
 
