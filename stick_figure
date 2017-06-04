@@ -2,7 +2,10 @@ circle 70 100 100
 blackcircle 7 75 80
 blackcircle 7 125 80
 line 100 170 0 200
-line 85 220 30 0
+line 65 240 35 -20
+line 100 220 35 20
+line 65 240 0 40
+line 135 240 0 40
 line 100 370 -50 80
 line 100 370 50 80
 arc 70 110 60 70
