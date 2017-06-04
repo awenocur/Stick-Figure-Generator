@@ -15,3 +15,8 @@ function blackcircle()
 {
     circle $1 $2 $3 '#000000'
 }
+
+function orangecircle()
+{
+    circle $1 $2 $3 '#ffa500'
+}

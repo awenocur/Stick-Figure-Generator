@@ -6,3 +6,9 @@ line 85 220 30 0
 line 100 370 -50 80
 line 100 370 50 80
 arc 70 110 60 70
+orangecircle 2 65 100
+orangecircle 2 60 105
+orangecircle 2 55 95
+orangecircle 2 135 100
+orangecircle 2 145 105
+orangecircle 2 140 95
