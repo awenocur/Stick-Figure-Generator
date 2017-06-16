@@ -3,6 +3,10 @@ redcircle 7 75 80
 bluecircle 7 125 80
 line 100 170 0 200
 line 85 220 30 0
-line 100 370 -50 80
-line 100 370 50 80
+line 100 370 -50 30 # upper left leg
+line 100 370 50 30 # upper right leg
+line 50 450 -20 0 # left foot
+line 150 450 20 0 # right foot
+line 50 400 0 50 # lower left leg
+line 150 400 0 50 # lower right leg
 arc 70 110 60 70
