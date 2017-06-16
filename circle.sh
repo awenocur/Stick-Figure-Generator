@@ -20,3 +20,13 @@ function orangecircle()
 {
     circle $1 $2 $3 '#ffa500'
 }
+
+function redcircle()
+{
+    circle $1 $2 $3 '#ff0000'
+}
+
+function bluecircle()
+{
+    circle $1 $2 $3 '#0000ff'
+}
