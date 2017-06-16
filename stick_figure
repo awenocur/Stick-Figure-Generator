@@ -33,10 +33,7 @@ line 65 240 35 -20
 line 100 220 35 20
 line 65 240 0 40
 line 135 240 0 40
-#line 100 370 -50 80
-#line 100 370 50 80
 
-line 85 220 30 0
 orangecircle 2 65 100
 orangecircle 2 60 105
 orangecircle 2 55 95
